@@ -45,7 +45,7 @@ object LibraryManagement {
     display()
     removeBook("ISBN2")
     display()
-    searchByAuthor(Author1)
+    searchByAuthor("Author1")
     
   }
 }
